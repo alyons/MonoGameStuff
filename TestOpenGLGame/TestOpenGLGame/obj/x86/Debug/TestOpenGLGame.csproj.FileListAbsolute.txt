@@ -1,0 +1,12 @@
+c:\users\pyrot_000\documents\visual studio 2012\Projects\TestOpenGLGame\TestOpenGLGame\bin\WindowsGL\Debug\SDL.dll
+c:\users\pyrot_000\documents\visual studio 2012\Projects\TestOpenGLGame\TestOpenGLGame\bin\WindowsGL\Debug\TestOpenGLGame.exe
+c:\users\pyrot_000\documents\visual studio 2012\Projects\TestOpenGLGame\TestOpenGLGame\bin\WindowsGL\Debug\TestOpenGLGame.pdb
+c:\users\pyrot_000\documents\visual studio 2012\Projects\TestOpenGLGame\TestOpenGLGame\bin\WindowsGL\Debug\Lidgren.Network.dll
+c:\users\pyrot_000\documents\visual studio 2012\Projects\TestOpenGLGame\TestOpenGLGame\bin\WindowsGL\Debug\MonoGame.Framework.dll
+c:\users\pyrot_000\documents\visual studio 2012\Projects\TestOpenGLGame\TestOpenGLGame\bin\WindowsGL\Debug\OpenTK.dll
+c:\users\pyrot_000\documents\visual studio 2012\Projects\TestOpenGLGame\TestOpenGLGame\bin\WindowsGL\Debug\Tao.Sdl.dll
+c:\users\pyrot_000\documents\visual studio 2012\Projects\TestOpenGLGame\TestOpenGLGame\obj\x86\Debug\TestOpenGLGame.csprojResolveAssemblyReference.cache
+c:\users\pyrot_000\documents\visual studio 2012\Projects\TestOpenGLGame\TestOpenGLGame\obj\x86\Debug\TestOpenGLGame.exe
+c:\users\pyrot_000\documents\visual studio 2012\Projects\TestOpenGLGame\TestOpenGLGame\obj\x86\Debug\TestOpenGLGame.pdb
+c:\users\pyrot_000\documents\visual studio 2012\Projects\TestOpenGLGame\TestOpenGLGame\bin\WindowsGL\Debug\Content\sonicadvance3.png
+C:\Users\pyrot_000\Documents\Visual Studio 2012\Projects\TestOpenGLGame\TestOpenGLGame\bin\WindowsGL\Debug\Content\collide.fx

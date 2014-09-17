@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--
+/// Copyright Alexander Lyons 2010, 2011, 2013
+///
+/// This file is part of SpriteLibrary.
+///
+/// SpriteLibrary is free software: you can redistribute it and/or modify
+/// it under the terms of the GNU General Public License as published by
+/// the Free Software Foundation, either version 3 of the License, or
+/// (at your option) any later version.
+/// 
+/// SpriteLibrary is distributed in the hope that it will be useful,
+/// but WITHOUT ANY WARRANTY; without even the implied warranty of
+/// MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+/// GNU General Public License for more details.
+/// 
+/// You should have received a copy of the GNU General Public License
+/// along with SpriteLibrary.  If not, see <http://www.gnu.org/licenses/>.
+-->
+<XnaContent xmlns:Generic="System.Collections.Generic">
+  <Asset Type="Generic:List[SpriteLibrary.Sprite]">
+    <Item>
+      <Name>Sonic Standing</Name>
+      <FPS>12</FPS>
+      <TextureAsset>sonicadvance3</TextureAsset>
+      <RectangleAsset>sonicStandRects</RectangleAsset>
+    </Item>
+    <Item>
+      <Name>Chaos Emerald</Name>
+      <FPS>0</FPS>
+      <TextureAsset>sonicadvance3</TextureAsset>
+      <RectangleAsset>chaosEmeraldRects</RectangleAsset>
+    </Item>
+  </Asset>
+</XnaContent>
