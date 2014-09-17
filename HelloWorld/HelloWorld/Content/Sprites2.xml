@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSprite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Sprite>
+    <Name>Sonic Standing</Name>
+    <FPS>12</FPS>
+    <TextureAsset>sonicadvance3</TextureAsset>
+    <RectangleAsset>Content/sonicStandRects.xml</RectangleAsset>
+  </Sprite>
+  <!--<Sprite>
+    <Name>Chaos Emerald</Name>
+    <FPS>0</FPS>
+    <TextureAsset>sonicadvance3</TextureAsset>
+    <RectangleAsset>chaosEmeraldRects</RectangleAsset>
+  </Sprite>-->
+</ArrayOfSprite>
