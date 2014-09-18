@@ -23,6 +23,7 @@ namespace HelloWorld
         SpriteBatch spriteBatch;
         XmlManager spriteXmlManager;
         XmlManager rectangleXmlManager;
+        Effect effect;
 
         Player player;
 
@@ -59,10 +60,12 @@ namespace HelloWorld
             spriteBatch = new SpriteBatch(GraphicsDevice);
             
             // TODO: use this.Content to load your game content here
+            //effect = Content.Load<Effect>("Graphics/Effects/collide");
             player.Initialize(spriteXmlManager.Load<List<Sprite>>("Content//Sprites2.xml"), new Vector2(300, 200), new Rectangle(6, 10, 32, 35));
             foreach (Sprite s in player.Sprites)
             {
                 s.Load(Content);
+                //s.Effect = effect;
             }
         }
 

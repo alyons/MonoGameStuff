@@ -1,0 +1,6 @@
+Content\Graphics\Effects\collide.xnb
+Content\Graphics\Effects\heatHaze.xnb
+Content\Graphics\Effects\superCollide.xnb
+Content\Graphics\Textures\BigPixel.xnb
+Content\Graphics\Textures\BigPixelYellow.xnb
+Content\Graphics\Textures\sonicadvance3.xnb

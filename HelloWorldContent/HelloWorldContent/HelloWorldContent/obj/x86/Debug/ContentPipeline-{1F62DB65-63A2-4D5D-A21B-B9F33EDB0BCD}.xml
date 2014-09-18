@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Graphics\Effects\collide.fx</Source>
+      <Name>Graphics\Effects\collide</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\pyrot_000\Documents\GitHub\MonoGameStuff\HelloWorldContent\HelloWorldContent\HelloWorldContent\bin\x86\Debug\Content\Graphics\Effects\collide.xnb</Output>
+      <Time>2014-09-17T17:29:29.1316011-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Effects\heatHaze.fx</Source>
+      <Name>Graphics\Effects\heatHaze</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\pyrot_000\Documents\GitHub\MonoGameStuff\HelloWorldContent\HelloWorldContent\HelloWorldContent\bin\x86\Debug\Content\Graphics\Effects\heatHaze.xnb</Output>
+      <Time>2014-09-17T17:29:29.1346031-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Effects\superCollide.fx</Source>
+      <Name>Graphics\Effects\superCollide</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\pyrot_000\Documents\GitHub\MonoGameStuff\HelloWorldContent\HelloWorldContent\HelloWorldContent\bin\x86\Debug\Content\Graphics\Effects\superCollide.xnb</Output>
+      <Time>2014-09-17T17:29:29.1366024-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Textures\BigPixel.bmp</Source>
+      <Name>Graphics\Textures\BigPixel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\pyrot_000\Documents\GitHub\MonoGameStuff\HelloWorldContent\HelloWorldContent\HelloWorldContent\bin\x86\Debug\Content\Graphics\Textures\BigPixel.xnb</Output>
+      <Time>2014-09-17T17:30:00.3380454-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Textures\BigPixelYellow.bmp</Source>
+      <Name>Graphics\Textures\BigPixelYellow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\pyrot_000\Documents\GitHub\MonoGameStuff\HelloWorldContent\HelloWorldContent\HelloWorldContent\bin\x86\Debug\Content\Graphics\Textures\BigPixelYellow.xnb</Output>
+      <Time>2014-09-17T17:30:00.3400488-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Textures\sonicadvance3.png</Source>
+      <Name>Graphics\Textures\sonicadvance3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\pyrot_000\Documents\GitHub\MonoGameStuff\HelloWorldContent\HelloWorldContent\HelloWorldContent\bin\x86\Debug\Content\Graphics\Textures\sonicadvance3.xnb</Output>
+      <Time>2014-09-17T17:30:00.3420496-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{1F62DB65-63A2-4D5D-A21B-B9F33EDB0BCD}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\pyrot_000\Documents\GitHub\MonoGameStuff\HelloWorldContent\HelloWorldContent\HelloWorldContentContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\pyrot_000\Documents\GitHub\MonoGameStuff\HelloWorldContent\HelloWorldContent\HelloWorldContent\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\pyrot_000\Documents\GitHub\MonoGameStuff\HelloWorldContent\HelloWorldContent\HelloWorldContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\pyrot_000\Documents\GitHub\MonoGameStuff\HelloWorldContent\HelloWorldContent\HelloWorldContent\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-09-16T20:33:01.1356145-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

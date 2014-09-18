@@ -3,7 +3,7 @@
   <Sprite>
     <Name>Sonic Standing</Name>
     <FPS>12</FPS>
-    <TextureAsset>sonicadvance3</TextureAsset>
+    <TextureAsset>Graphics/Textures/sonicadvance3</TextureAsset>
     <RectangleAsset>Content/sonicStandRects.xml</RectangleAsset>
   </Sprite>
   <!--<Sprite>

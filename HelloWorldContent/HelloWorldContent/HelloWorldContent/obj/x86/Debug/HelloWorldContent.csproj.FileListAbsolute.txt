@@ -1,0 +1,12 @@
+C:\Users\pyrot_000\Documents\GitHub\MonoGameStuff\HelloWorldContent\HelloWorldContent\HelloWorldContent\bin\x86\Debug\Content\Graphics\Effects\collide.xnb
+C:\Users\pyrot_000\Documents\GitHub\MonoGameStuff\HelloWorldContent\HelloWorldContent\HelloWorldContent\bin\x86\Debug\Content\Graphics\Effects\heatHaze.xnb
+C:\Users\pyrot_000\Documents\GitHub\MonoGameStuff\HelloWorldContent\HelloWorldContent\HelloWorldContent\bin\x86\Debug\Content\Graphics\Effects\superCollide.xnb
+C:\Users\pyrot_000\Documents\GitHub\MonoGameStuff\HelloWorldContent\HelloWorldContent\HelloWorldContent\bin\x86\Debug\Content\Graphics\Textures\BigPixel.xnb
+C:\Users\pyrot_000\Documents\GitHub\MonoGameStuff\HelloWorldContent\HelloWorldContent\HelloWorldContent\bin\x86\Debug\Content\Graphics\Textures\BigPixelYellow.xnb
+C:\Users\pyrot_000\Documents\GitHub\MonoGameStuff\HelloWorldContent\HelloWorldContent\HelloWorldContent\bin\x86\Debug\Content\Graphics\Textures\sonicadvance3.xnb
+C:\Users\pyrot_000\Documents\GitHub\MonoGameStuff\HelloWorldContent\HelloWorldContent\HelloWorldContent\bin\x86\Debug\HelloWorldContent.exe
+C:\Users\pyrot_000\Documents\GitHub\MonoGameStuff\HelloWorldContent\HelloWorldContent\HelloWorldContent\bin\x86\Debug\HelloWorldContent.pdb
+C:\Users\pyrot_000\Documents\GitHub\MonoGameStuff\HelloWorldContent\HelloWorldContent\HelloWorldContent\obj\x86\Debug\HelloWorldContent.csprojResolveAssemblyReference.cache
+C:\Users\pyrot_000\Documents\GitHub\MonoGameStuff\HelloWorldContent\HelloWorldContent\HelloWorldContent\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\pyrot_000\Documents\GitHub\MonoGameStuff\HelloWorldContent\HelloWorldContent\HelloWorldContent\obj\x86\Debug\HelloWorldContent.exe
+C:\Users\pyrot_000\Documents\GitHub\MonoGameStuff\HelloWorldContent\HelloWorldContent\HelloWorldContent\obj\x86\Debug\HelloWorldContent.pdb
